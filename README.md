@@ -2,7 +2,7 @@
 ## [力求保留原文篇章架構，最像人的仿作生成系統]
 
 ### [Wordy Website](https://api.droidtown.co/)
-### [Document] (https://api.droidtown.co/document/#Wordy)
+### [Document](https://api.droidtown.co/document/#Wordy)
 
 # WordyAPI
 
@@ -28,12 +28,10 @@ wd.rewrite(inputSTR, max_num=16, user_defined, fixed_term)
 
 ```
 
-```
+
 ### 回傳結果
 ```
-{
 您的 16 篇文章改寫正在準備中，等改寫完成後，我們會再寄通知到 {您的信箱}
-}
 ```
 
 **環境需求**
